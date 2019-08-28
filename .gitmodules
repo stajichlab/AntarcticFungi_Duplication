@@ -1,0 +1,6 @@
+[submodule "smudgeplot"]
+	path = smudgeplot
+	url = https://github.com/KamilSJaron/smudgeplot
+[submodule "subopt-kaks"]
+	path = subopt-kaks
+	url = https://github.com/hyphaltip/subopt-kaks.git
