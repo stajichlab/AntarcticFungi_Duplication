@@ -1,1 +1,0 @@
-../smudgeplot/exec/smudgeplot.py
