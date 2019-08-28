@@ -4,3 +4,6 @@
 [submodule "subopt-kaks"]
 	path = subopt-kaks
 	url = https://github.com/hyphaltip/subopt-kaks.git
+[submodule "genomescope"]
+	path = genomescope
+	url = https://github.com/schatzlab/genomescope.git
